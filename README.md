@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in fron
 
 - **React**: Diving into building modern, responsive web apps with React.
 - **Python**: Enhancing my skills in Python for data analysis, automation, and more.
+- **Django**: Learning the Django framework, a high-level Python framework that simplifies web development by providing built-in features for rapid development and security.
+
 <!--
 ## 💻 Projects
 
