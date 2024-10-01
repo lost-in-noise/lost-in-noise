@@ -34,5 +34,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nancykikv
 Thanks for visiting my GitHub profile! 🚀
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=6&layout=compact&theme=shadow_blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=6&layout=compact&theme=github_dark_dimmed)
 
