@@ -32,3 +32,7 @@ Here are a few projects I'm proud of:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nancykikvadze/) or reach out via [email](mailto:nancykikvadze@gmail.com).
 
 Thanks for visiting my GitHub profile! 🚀
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=6&layout=compact&theme=dark)
+
