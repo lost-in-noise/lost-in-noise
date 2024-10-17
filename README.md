@@ -4,7 +4,9 @@
 
 # Hi there, I'm Nancy! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in front-end and a growing interest in full-stack development. Here's a bit about me:
+<!-- Welcome to my GitHub profile!  -->
+
+<!-- I'm a passionate developer with experience in front-end and a growing interest in full-stack development. Here's a bit about me:
 
 ## 🌐 Technologies & Skills
 
@@ -12,16 +14,16 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in fron
 - **CSS**: Styling web pages with a keen eye for design and user experience.
 - **JavaScript**: Bringing interactivity and functionality to web applications.
 - **React**: Currently learning and building dynamic user interfaces.
-- **Python**: Exploring Python for versatile programming tasks and projects.
+- **Python**: Exploring Python for versatile programming tasks and projects. -->
 
 ###
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=6&layout=compact&theme=github_dark)
 
-## 🚀 Currently Learning
+<!-- ## 🚀 Currently Learning
 
 - **React**: Diving into building modern, responsive web apps with React.
 - **Python**: Enhancing my skills in Python for data analysis, automation, and more.
-- **Django**: Learning the Django framework, a high-level Python framework that simplifies web development by providing built-in features for rapid development and security.
+- **Django**: Learning the Django framework, a high-level Python framework that simplifies web development by providing built-in features for rapid development and security. -->
 
 <!--
 ## 💻 Projects
@@ -34,6 +36,8 @@ Here are a few projects I'm proud of:
 
 ## 📫 Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nancykikvadze/) or reach out via [email](mailto:nancykikvadze@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nancykikvadze/).
+
+<!-- or reach out via [email](mailto:nancykikvadze@gmail.com). -->
 
 Thanks for visiting my GitHub profile! 🚀
