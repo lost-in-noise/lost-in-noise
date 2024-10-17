@@ -4,6 +4,15 @@
 
 # Hi there, I'm Nancy! 👋
 
+Welcome to my GitHub profile! I'm a front-end developer keen on building user-friendly and dynamic web experiences. Here’s a bit about me:
+
+## 🌟 Skills & Technologies
+
+- **HTML & CSS**: Building accessible and visually appealing websites.
+- **JavaScript**: Enhancing functionality and creating interactive elements.
+- **React**: Currently exploring and building modern interfaces.
+- **Python**: Experimenting with Python for various projects, including web development with Django.
+
 <!-- Welcome to my GitHub profile!  -->
 
 <!-- I'm a passionate developer with experience in front-end and a growing interest in full-stack development. Here's a bit about me:
@@ -36,8 +45,8 @@ Here are a few projects I'm proud of:
 
 ## 📫 Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nancykikvadze/).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/nancykikvadze/)!
 
 <!-- or reach out via [email](mailto:nancykikvadze@gmail.com). -->
 
-Thanks for visiting my GitHub profile! 🚀
+Thanks for stopping by! 🚀
