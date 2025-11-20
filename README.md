@@ -28,6 +28,14 @@ Welcome to my GitHub profile! I'm a front-end developer keen on building user-fr
 ###
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=6&layout=compact&theme=github_dark)
 
+## 🛠 Code Editors I Use
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA"/>
+</p>
+
+
 <!-- ## 🚀 Currently Learning
 
 - **React**: Diving into building modern, responsive web apps with React.
