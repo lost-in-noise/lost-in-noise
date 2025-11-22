@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a front-end developer keen on building user-fr
 - **Python**: Exploring Python for versatile programming tasks and projects. -->
 
 ###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=6&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=8&layout=compact&theme=github_dark)
 
 ## 🛠 Code Editors I Use
 
