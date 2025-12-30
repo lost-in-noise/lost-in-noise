@@ -1,7 +1,6 @@
 <!--
 **lost-in-noise/lost-in-noise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
 # Hi there, I'm Nancy! 👋
 
 Welcome to my GitHub profile! I'm a front-end developer keen on building user-friendly and dynamic web experiences. Here’s a bit about me:
@@ -26,7 +25,8 @@ Welcome to my GitHub profile! I'm a front-end developer keen on building user-fr
 - **Python**: Exploring Python for versatile programming tasks and projects. -->
 
 ###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=8&layout=compact&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=8&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ## 🛠 Code Editors I Use
 
@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a front-end developer keen on building user-fr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA"/>
 </p>
-
 
 <!-- ## 🚀 Currently Learning
 
