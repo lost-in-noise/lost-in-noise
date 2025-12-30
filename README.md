@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a front-end developer keen on building user-fr
 ###
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=8&layout=compact&theme=github_dark&cache_seconds=1800) -->
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=8&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lost-in-noise&langs_count=8&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
 ## 🛠 Code Editors I Use
 
