@@ -5,12 +5,12 @@
 
 Welcome to my GitHub profile! I'm a front-end developer keen on building user-friendly and dynamic web experiences. Here’s a bit about me:
 
-## 🌟 Skills & Technologies
+<!-- ## 🌟 Skills & Technologies
 
 - **HTML & CSS**: Building accessible and visually appealing websites.
 - **JavaScript**: Enhancing functionality and creating interactive elements.
 - **React**: Currently exploring and building modern interfaces.
-- **Python**: Experimenting with Python for various projects, including web development with Django.
+- **Python**: Experimenting with Python for various projects, including web development with Django. -->
 
 <!-- Welcome to my GitHub profile!  -->
 
