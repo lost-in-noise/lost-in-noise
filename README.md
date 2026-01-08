@@ -3,7 +3,9 @@
 
 # Hi there, I'm Nancy! 👋
 
-Welcome to my digital space! 🚀 I'm a **Front-end Developer** focused on creating high-quality, dynamic web experiences. I work effectively within **Agile (Scrum)** teams, bringing a strong interest in **Software Testing & Quality Assurance** to every project. My goal is to bridge the gap between elegant design and technical stability. I believe code should be as reliable as it is beautiful. Let’s build something great! Here’s a bit about me:
+Welcome to my digital space! 🚀 I'm a **Front-end Developer** focused on creating high-quality, dynamic web experiences. I work effectively within **Agile (Scrum)** teams, bringing a strong interest in **Software Testing & Quality Assurance** to every project. My goal is to bridge the gap between elegant design and technical stability. I believe code should be as reliable as it is beautiful. Let’s build something great!
+
+Here’s a bit about me:
 
 ---
 
