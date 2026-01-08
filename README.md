@@ -25,14 +25,16 @@ Here’s a bit about me:
 
 </p>
 
-**Testing & QA Ecosystem:**
+**Testing, QA Ecosystem & Debugging:**
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/TestCaseLab-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TestRail-3E7EBC?style=for-the-badge&logo=testrail&logoColor=white" />
   <img src="https://img.shields.io/badge/Jam.dev-FF0000?style=for-the-badge&logo=jam&logoColor=white" />
 </p>
 
