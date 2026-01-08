@@ -3,7 +3,7 @@
 
 # Hi there, I'm Nancy! 👋
 
-Welcome to my digital space! 🚀 I'm a **Front-end Developer** focused on creating high-quality, dynamic web experiences. I work effectively within **Agile (Scrum)** teams, bringing a strong interest in **Software Testing & Quality Assurance** to every project. My goal is to bridge the gap between elegant design and technical stability. I believe code should be as reliable as it is beautiful. Let’s build something great!
+Welcome to my digital space! 🚀 I'm a **Front-end Developer** focused on creating high-quality, dynamic web experiences. I work effectively within **Agile (Scrum & Kanban)** teams, bringing a strong interest in **Software Testing & Quality Assurance** to every project. My goal is to bridge the gap between elegant design and technical stability. I believe code should be as reliable as it is beautiful. Let’s build something great!
 
 Here’s a bit about me:
 
@@ -17,11 +17,12 @@ Here’s a bit about me:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
 </p>
 
 **Testing & QA Ecosystem:**
@@ -32,6 +33,7 @@ Here’s a bit about me:
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/TestCaseLab-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jam.dev-FF0000?style=for-the-badge&logo=jam&logoColor=white" />
 </p>
 
 **Project Management & Methodology:**
@@ -40,7 +42,7 @@ Here’s a bit about me:
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickUp-FF02F6?style=for-the-badge&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile_&_Scrum-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile-Scrum%20%26%20Kanban-000000?style=for-the-badge" />
 </p>
 
 **Version Control & Design:**
